@@ -1,8 +1,10 @@
-# Comentários próprios #
-# sklearn é a biblioteca para criar os modelos de aprendizado
-# .tree é porque é o tipo árvore de decisao 
-# importo uma decision tree do tipo regressor, que foi o exemplo do kaggle
-# ver mais sobre os tipos de DT: https://scikit-learn.org/stable/
+#              Written in Portuguese to familiarize myself                    #
+#                       Comentários próprios                                  #
+#        sklearn é a biblioteca para criar os modelos de aprendizado          #
+#        .tree é porque é o tipo árvore de decisao                            #
+#        importo uma decision tree do tipo regressor, que foi o               #                        
+#        exemplo do kaggle ver mais sobre os tipos de DT:                     #
+#        https://scikit-learn.org/stable/                                     #
 
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.model_selection import train_test_split
